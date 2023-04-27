@@ -466,6 +466,8 @@ const cities = {
 	"Swellendam NU",
 	"Swellendam Rural",
 	"Tulbagh",
-	"Vanrhynsdorp"
+	"Vanrhynsdorp",
+	    
+]
 	
 }
