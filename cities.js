@@ -1,6 +1,7 @@
-const cities = [
+const gridlinkCities = [
     {
-	"Eastern Cape": [
+	title: "Eastern Cape",
+	cities: [
 	    "East London",
 	    "Port Elizabeth",
 	    "Uitenhage",
@@ -29,7 +30,8 @@ const cities = [
 	],
     },
     {
-	"Free State": [
+	title: "Free State",
+	cities: [
 	    "Bloemfontein",
 	    "Welkom",
 	    "Botshabelo",
@@ -58,7 +60,8 @@ const cities = [
 	],
     },
     {
-	"Gauteng": [
+	title: "Gauteng",
+	cities: [
 	    "Johannesburg",
 	    "Pretoria",
 	    "Soweto",
@@ -100,7 +103,8 @@ const cities = [
 	],
     },
     {
-	"KwaZulu-Natal": [
+	title: "KwaZulu-Natal",
+	cities: [
 	    "Durban",
 	    "Pietermaritzburg",
 	    "Newcastle",
@@ -265,7 +269,8 @@ const cities = [
 	],
     },
     {
-	limpopo: [
+	title: "limpopo",
+	cities: [
 	    "Polokwane",
 	    "Belabela",
 	    "Giyani",
@@ -285,7 +290,8 @@ const cities = [
 	],
     },
     {
-	"Mpumalanga": [
+	title: "Mpumalanga",
+	cities: [
 	    "Barberton",
 	    "Belfast",
 	    "Carolina",
@@ -311,7 +317,8 @@ const cities = [
 	],
     },
     {
-	"North West": [
+	title: "North West",
+	cities: [
 	    "Brits",
 	    "Fochville",
 	    "Hartbeespoort",
@@ -332,7 +339,8 @@ const cities = [
 	],
     },
     {
-	"Northern Cape": [
+	title: "Northern Cape",
+	cities: [
 	    "Kimberley",
 	    "Upington",
 	    "De Aar",
@@ -376,7 +384,8 @@ const cities = [
 	],
     },
     {
-	"Western Cape": [
+	title: "Western Cape",
+	cities: [
 	    "Cape Town",
 	    "Stellenbosch",
 	    "George",
